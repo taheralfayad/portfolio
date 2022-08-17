@@ -24,6 +24,11 @@
 .tagline {
     font-size: 48px;
 }
+
+.myimg {
+    height: 28px;
+    width: 28px;
+}
 .box4 {
     width: 250px;
     position: relative;
@@ -54,4 +59,12 @@
     position: relative;
     top: 150px;
 
+}
+
+.myphoto {
+    width: 400px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
 }

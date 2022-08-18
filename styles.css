@@ -68,3 +68,14 @@
     margin-right: auto;
     border-radius: 50%;
 }
+
+.biopages {
+    width: auto; 
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .biopages {
+        width: 400px;
+    }
+  }

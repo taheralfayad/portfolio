@@ -74,8 +74,19 @@
     text-align: center;
 }
 
+.jumbotron{
+    width: auto;
+    background-color: cadetblue;
+}
+
 @media only screen and (min-width: 768px) {
     .biopages {
         width: 400px;
     }
-  }
+
+    .jumbotron{
+        width: 500px;
+        background-color: cadetblue;
+    }
+}
+    
